@@ -48,6 +48,8 @@ The CSV file should have the following columns:
 - `Ratio`: Ratio for smaller units
 - `Tipo de categoría de medida`: Category (weight, volume, unit, length)
 
+**Note:** All values are in Spanish. PRs welcomed for other languages. :)
+
 ## Code Structure
 
 - `check_uom.py`: Main script with CLI handling
