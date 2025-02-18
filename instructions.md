@@ -1,8 +1,6 @@
 # **Guía Fácil para Nombrar Unidades de Medida** 📦📏✅
 
-===
-
-_Esta guía te ayudará a entender cómo nombrar las unidades de medida en los inventarios, especialmente para productos que vienen en diferentes tamaños, pesos o volúmenes. Aquí verás patrones comunes y ejemplos para hacer nombres claros y fáciles de entender. _
+_Esta guía te ayudará a entender cómo nombrar las unidades de medida en los inventarios, especialmente para productos que vienen en diferentes tamaños, pesos o volúmenes. Aquí verás patrones comunes y ejemplos para hacer nombres claros y fáciles de entender._
 
 ---
 
