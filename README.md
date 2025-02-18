@@ -63,3 +63,5 @@ The CSV file should have the following columns:
 - Weight: libras
 - Length: metros
 - Units: unidades
+
+**Note:** Reference units are based on the ones we use. PRs welcomed for other locales. :)
